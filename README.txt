@@ -1,0 +1,4 @@
+-	A fájlok kicsomagolása után a kicsomagolt mappát át kell helyezni a szerver elérési útvonalához (Xampp használatánál C:\xampp\htdocs)
+-	El kell indítani a szervert és az adatbázist
+-	Létre kell hozni az adatbázist (MySql-nél http://localhost/phpmyadmin/ felületen importálni kell a Port/Datas/create.sql fájlt, majd futtatni a létrehozáshoz)
+-	Az oldalt a http://localhost/Port/ cím alatt érjük el
